@@ -1,0 +1,10 @@
+apt update && apt upgrade  	# Update and install available upgrades
+apt search <package_name>  	# Search for abailable packages
+apt install <package_name>	# Install packages
+dpkg -l | grep <package_name>	# Check if a specific package is installed
+ifconfig			# Show network inreface information (ip addr - newer versions)
+nmap				# network scans open ports, services, and vulnerabilities
+netstat -tuln			# Display active listening ports
+**top/htop			# Monitor CPU, memory and process usage in real time.
+ps aux | grep <process>		# Show active proceses matching a search criterion
+kill -9 <PID>			# Terminate a process using its PID

@@ -1,0 +1,3 @@
+chmod # Change file/directory permissions
+chmod 777 <file>	# read/write/execute to the owner and read/write to group and others
+chown <user>:<group> <file> 	# Change the owner and group of a file.

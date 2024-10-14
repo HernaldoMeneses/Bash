@@ -1,0 +1,8 @@
++ A # Move cursor to init line
++ E # Move cursor to end line
++ U # Erase all from here to init line
++ K # Erase all from here to end line
++ W # Erase word cursor's left
++ L # Clear
++ R # Comands History
+Tab # to complet 

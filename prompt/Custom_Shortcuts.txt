@@ -1,0 +1,6 @@
+vim .bashrc # file to set up custom commands and save time.
+alias update='sudo apt update && sudo apt upgrade'
+alias c='clear'
+alias ll='ls -la'
+
+after saving, run souce ~/.bashrc to activate the shortcuts.

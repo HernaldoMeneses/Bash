@@ -1,0 +1,11 @@
+ls	# List files and directories in the 
+ls -l 	# include detailed information (permissions, owner, size, etc.)
+ls -a			# include hidden files
+cd <directory_name>	# Change the current directory
+mkdir <directory_name>	# Create a new directory
+rm -rf			# Recursively remove files or directories (be careful!).
+cp <source> <destination>	# Copy files or directories.
+mv <source> <destination>	# Move or rename files or directories.
+cat <file>			# Display the contents of a file.
+nano <file>			# Edit files in the terminal using the nano editor
+vim <file>			# Edite files in the terminal using the vim editor

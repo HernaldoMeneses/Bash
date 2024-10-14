@@ -1,0 +1,1 @@
+ntfsfix /dev/sdc1

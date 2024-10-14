@@ -1,0 +1,6 @@
+uname -a	# Show information about the kernel and distribution
+df -h		# Display disk space usage in a human-readable format
+du -sh <directory> 	# Show disk usage for a specific directory.
+free -h		# Display Ram usage in a human-readable format.
+sudo 		# Run a command as a superuser
+whoami 		# Show the name of the currently logged-in user
